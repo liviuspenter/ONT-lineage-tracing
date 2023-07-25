@@ -1,2 +1,2 @@
 # ONT-lineage-tracing
-Analyses of Penter, Borji &amp; Nagler et al.
+Analyses to generate figures of Penter, Borji &amp; Nagler et al.
