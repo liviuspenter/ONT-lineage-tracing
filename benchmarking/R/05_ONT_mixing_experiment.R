@@ -1,10 +1,8 @@
+# perform analyses of mixing experiment K562 with Kasumi-1
+
 library(dplyr)
 library(ggplot2)
 library(Seurat)
-
-#source('./analysis/extract_UMIs.R')
-#source('./analysis/kneeplot.R')
-#source('/Users/shaka87/dfci/10026/10x/analysis/ONT/210215_FunctionsGeneral.R')
 
 cell.line.colors = c('Kasumi1' = 'firebrick', 'K562' = '#ffcc00')
 
