@@ -33,9 +33,8 @@ Fig. 6b | 73_de_novo_AML1_somatic_mutations_mtDNA.R
 Fig. 6c | 73_de_novo_AML1_somatic_mutations_mtDNA.R
 Fig. 6d | 74_de_novo_AML1_DGEA.R
 Fig. 6e | 74_de_novo_AML1_DGEA.R
-Suppl. Fig. 12a |
-Suppl. Fig. 12b |
-Fig. 7a |
-Fig. 7b |
-Fig. 7c | 
+Suppl. Fig. 12a | 71_de_novo_AML_UMAPs_heatmaps.R
+Suppl. Fig. 12b | 75_de_novo_AML_number_of_mutated_cells.R
+Fig. 7a | 30_AML_combined_mutations_all.R
+Fig. 7b | 20_AML1002_CNV_somatic_mutations.R
 ```
