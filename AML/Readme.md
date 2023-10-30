@@ -1,12 +1,12 @@
 Panels found in this directory:
 
 ```
-Fig. 4b |
-Fig. 4c |
-Fig. 4d |
-Fig. 4f |
-Fig. 4g |
-Suppl. Fig. 7a |
+Fig. 4b | 30_AML_combined_mutations_all.R
+Fig. 4c | 31_AML_combined_mutations_all_longitudinal.R
+Fig. 4d | 20_AML8007_CNV_somatic_mutations.R
+Fig. 4f | 41_reanalysis_beat_AML.R
+Fig. 4g | 41_reanalysis_beat_AML.R
+Suppl. Fig. 7a | 
 Suppl. Fig. 7b |
 Suppl. Fig. 7c |
 Suppl. Fig. 7d |
