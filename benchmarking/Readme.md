@@ -1,11 +1,10 @@
 Panels found in this directory:
 
 ```
-Fig. 1d |
-Fig. 1e |
-Suppl. Fig. 1a |
-Suppl. Fig. 1b |
-Suppl. Fig. 1c |
+Fig. 1d | 00_pseudobulk_coverage_clean_up_PCR.R
+Suppl. Fig. 1a | 02_transcripts_per_read.R
+Suppl. Fig. 1b | 02_transcripts_per_read.R 
+Suppl. Fig. 1c | 02_transcripts_per_read.R 
 Suppl. Fig. 1d |
 Suppl. Fig. 1e |
 Suppl. Fig. 1f |
