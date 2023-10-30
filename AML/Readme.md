@@ -14,10 +14,10 @@ Suppl. Fig. 8a | 10_AML1022_wildtype_vs_mutated.R
 Suppl. Fig. 8b | 11_AML1022_counts.R
 Suppl. Fig. 8c | 10_AML1022_wildtype_vs_mutated.R
 Suppl. Fig. 8d | 10_AML1022_wildtype_vs_mutated.R
-Suppl. Fig. 9a | 
-Suppl. Fig. 9b |
-Suppl. Fig. 9c |
-Suppl. Fig. 10a |
+Suppl. Fig. 9a | 31_AML_combined_mutations_all_longitudinal.R 
+Suppl. Fig. 9b | 21_AML8007_CNV_longitudinal.R
+Suppl. Fig. 9c | 21_AML8007_CNV_longitudinal.R
+Suppl. Fig. 10a | 
 Suppl. Fig. 10b |
 Suppl. Fig. 10c |
 Suppl. Fig. 10d |
