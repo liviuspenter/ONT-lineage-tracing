@@ -17,12 +17,11 @@ Suppl. Fig. 8d | 10_AML1022_wildtype_vs_mutated.R
 Suppl. Fig. 9a | 31_AML_combined_mutations_all_longitudinal.R 
 Suppl. Fig. 9b | 21_AML8007_CNV_longitudinal.R
 Suppl. Fig. 9c | 21_AML8007_CNV_longitudinal.R
-Suppl. Fig. 10a | 
-Suppl. Fig. 10b |
-Suppl. Fig. 10c |
-Suppl. Fig. 10d |
-Suppl. Fig. 10e |
-Fig. 5a |
+Suppl. Fig. 10b | 41_reanalysis_beat_AML.R
+Suppl. Fig. 10c | 41_reanalysis_beat_AML.R
+Suppl. Fig. 10d | 41_reanalysis_beat_AML.R
+Suppl. Fig. 10e | 40_reanalysis_van_Galen.R
+Fig. 5a | 
 Fig. 5b |
 Fig. 5c |
 Fig. 5d |
