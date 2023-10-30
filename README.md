@@ -7,7 +7,7 @@ The data needed to reproduce the analyses will be hosted on [OSF](https://osf.io
 
 ## Main figures
 
-The panels of the main figures can be found here:
+The code for the panels of the main figures can be found here. See individual subdirectories for further indications. 
 
 ```
 Figure 1 | benchmarking
@@ -18,4 +18,25 @@ Figure 5 | AML
 Figure 6 | AML, ALL
 Figure 7 | AML, CAR
 Figure 8 | isoforms
+```
+
+## Supplementary figures
+
+The code for the panels of the supplementary figures can be found here. See individual subdirectories for further indications. 
+
+```
+Suppl. Fig. 1 | benchmarking
+Suppl. Fig. 2 | benchmarking
+Suppl. Fig. 3 | no code
+Suppl. Fig. 4 | benchmarking
+Suppl. Fig. 5 | benchmarking
+Suppl. Fig. 6 | benchmarking
+Suppl. Fig. 7 | AML
+Suppl. Fig. 8 | AML
+Suppl. Fig. 9 | AML
+Suppl. Fig. 10 | AML
+Suppl. Fig. 11 | AML
+Suppl. Fig. 12 | AML, ALL
+Suppl. Fig. 13 | CAR
+Suppl. Fig. 14 | isoforms
 ```
