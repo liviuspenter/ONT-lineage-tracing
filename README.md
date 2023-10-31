@@ -3,7 +3,7 @@ This repository contains analyses performed to generate figures of Penter, Borji
 
 ## intermediate files 
 
-The data needed to reproduce the analyses will be hosted on [OSF](https://osf.io). They need to be downloaded and used to populate the data/ folder. 
+The data needed to reproduce the analyses will be hosted on [OSF](https://osf.io/58tbh). They need to be downloaded and used to populate the data/ folder. 
 
 ## Main figures
 
