@@ -27,7 +27,7 @@ The code for the panels of the supplementary figures can be found here. See indi
 ```
 Suppl. Fig. 1 | benchmarking
 Suppl. Fig. 2 | benchmarking
-Suppl. Fig. 3 | no code
+Suppl. Fig. 3 | benchmarking
 Suppl. Fig. 4 | benchmarking
 Suppl. Fig. 5 | benchmarking
 Suppl. Fig. 6 | benchmarking
