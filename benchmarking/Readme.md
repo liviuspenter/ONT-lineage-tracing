@@ -22,13 +22,13 @@ Fig. 2e | 05_ONT_mixing_experiment.R
 Fig. 2f | 05_ONT_mixing_experiment.R
 Fig. 2g | 05_ONT_mixing_experiment.R
 Fig. 2h | 10_native_coverage_10x.R
-Suppl. Fig. 4a |
-Suppl. Fig. 4b |
-Suppl. Fig. 4c |
-Suppl. Fig. 4d |
-Suppl. Fig. 4e |
-Suppl. Fig. 5a |
-Fig. 3b |
+Suppl. Fig. 4a | 05_ONT_mixing_experiment.R
+Suppl. Fig. 4b | 05_ONT_mixing_experiment.R
+Suppl. Fig. 4c | 05_ONT_mixing_experiment.R
+Suppl. Fig. 4d | 10_native_coverage_10x.R
+Suppl. Fig. 4e | 05_ONT_mixing_experiment.R
+Suppl. Fig. 5a | 10_native_coverage_10x.R
+Fig. 3b | 
 Fig. 3c |
 Fig. 3d |
 Fig. 3e |
