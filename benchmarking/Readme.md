@@ -14,10 +14,11 @@ Suppl. Fig. 1i | 21_deconcatenation_benchmarking.R
 Suppl. Fig. 1j | 21_deconcatenation_benchmarking.R
 Suppl. Fig. 2a | 21_deconcatenation_benchmarking.R
 Suppl. Fig. 2b | 21_deconcatenation_benchmarking.R
-Suppl. Fig. 2c | 20_error_rate_ONT_Illumina.R
-Suppl. Fig. 2d | 20_error_rate_ONT_Illumina.R
-Suppl. Fig. 2f | 20_error_rate_ONT_Illumina.R
-Suppl. Fig. 2g | 20_error_rate_ONT_Illumina.R
+Suppl. Fig. 3b | 20_error_rate_ONT_Illumina.R
+Suppl. Fig. 3c | 20_error_rate_ONT_Illumina.R
+Suppl. Fig. 3d | 20_error_rate_ONT_Illumina.R
+Suppl. Fig. 3e | 20_error_rate_ONT_Illumina.R
+Suppl. Fig. 3f | 20_error_rate_ONT_Illumina.R
 Fig. 2e | 05_ONT_mixing_experiment.R
 Fig. 2f | 05_ONT_mixing_experiment.R
 Fig. 2g | 05_ONT_mixing_experiment.R
