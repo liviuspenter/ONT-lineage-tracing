@@ -28,13 +28,13 @@ Suppl. Fig. 4c | 05_ONT_mixing_experiment.R
 Suppl. Fig. 4d | 10_native_coverage_10x.R
 Suppl. Fig. 4e | 05_ONT_mixing_experiment.R
 Suppl. Fig. 5a | 10_native_coverage_10x.R
-Fig. 3b | 
-Fig. 3c |
-Fig. 3d |
-Fig. 3e |
-Fig. 3f |
-Suppl. Fig. 6a |
-Suppl. Fig. 6b |
-Suppl. Fig. 6c |
+Fig. 3b | 31_GoT_nanoranger_process_amplicons.R
+Fig. 3c | 32_GoT_nanoranger_coverage_per_celltype.R
+Fig. 3d | 35_GoT_nanoranger_donor_recipient.R
+Fig. 3e | 36_GoT_nanoranger_venn_diagrams.R
+Fig. 3f | 34_GoT_nanoranger_read_length.R
+Suppl. Fig. 6a | 33_GoT_nanoranger_QC.R
+Suppl. Fig. 6b | 33_GoT_nanoranger_QC.R
+Suppl. Fig. 6c | 33_GoT_nanoranger_QC.R
 
 ```
