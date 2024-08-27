@@ -1,5 +1,5 @@
 # ONT-lineage-tracing
-This repository contains analyses performed to generate figures of Penter, Borji &amp; Nagler et al., 2023.
+This repository contains analyses performed to generate figures of [Penter, Borji &amp; Nagler et al., Nature Communications 2024](https://www.nature.com/articles/s41467-023-44137-7).
 
 ## intermediate files 
 
